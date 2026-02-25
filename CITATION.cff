@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it."
+type: software
+title: "Spanda Normative Harness
+abstract: "Deterministic micro-demos that prove (and falsify) architectural normatives for constraint-bound, stratified agent architectures."
+authors:
+  - family-names: "Putman"
+    given-names: "Stephen A."
+    email: "putmanmodel@pm.me"
+license: "CC-BY-NC-4.0"
+repository-code: "https://github.com/putmanmodel/spanda-normative-harness"
+keywords:
+  - "agent governance"
+  - "deterministic testing"
+  - "normative specification"
+  - "stratified memory"
+  - "constraint-grounded inference"
+  - "proof-of-work harness"
