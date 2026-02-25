@@ -1,12 +1,18 @@
-# logs are generated
-logs/*.jsonl
-logs/*.json
-logs/*.txt
+# local-only
+/tasks/
+/logs/
+/.venv/
 
 # python
 __pycache__/
 *.pyc
-.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
 
-# mac
+# editors
 .DS_Store
+.vscode/
+.idea/
