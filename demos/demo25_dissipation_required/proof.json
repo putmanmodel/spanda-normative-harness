@@ -1,0 +1,6 @@
+{
+  "coupling_strength": 0.7,
+  "dissipation_capacity": 0.4,
+  "risk_threshold": 0.35,
+  "expected_risk_flagged": false
+}
