@@ -1,0 +1,16 @@
+{
+  "priors_before": {
+    "risk_threshold": 0.5,
+    "novelty_weight": 0.25
+  },
+  "proposed_priors_after": {
+    "risk_threshold": 0.6,
+    "novelty_weight": 0.25
+  },
+  "explicit_update": false,
+  "expected_priors_after": {
+    "risk_threshold": 0.5,
+    "novelty_weight": 0.25
+  },
+  "expected_allowed": false
+}
