@@ -1,0 +1,12 @@
+# logs are generated
+logs/*.jsonl
+logs/*.json
+logs/*.txt
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# mac
+.DS_Store
