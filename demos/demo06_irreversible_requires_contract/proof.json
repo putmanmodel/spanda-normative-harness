@@ -1,0 +1,6 @@
+{
+  "action": "commit_final_transfer",
+  "irreversible": true,
+  "valid_contract": true,
+  "expected_allowed": true
+}

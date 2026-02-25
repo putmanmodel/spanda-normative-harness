@@ -1,0 +1,6 @@
+{
+  "action": "wipe_primary_ledger",
+  "irreversible": true,
+  "valid_contract": false,
+  "expected_allowed": false
+}
