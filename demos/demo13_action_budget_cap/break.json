@@ -1,0 +1,12 @@
+{
+  "requested_actions": [
+    "scan",
+    "rank",
+    "commit",
+    "notify",
+    "archive"
+  ],
+  "budget_cap": 3,
+  "expected_executed_count": 3,
+  "expected_clamped": true
+}
