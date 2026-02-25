@@ -1,0 +1,7 @@
+{
+  "instability_recent": true,
+  "steps_since_instability": 1,
+  "stabilization_window": 3,
+  "update_requested": true,
+  "expected_allowed": false
+}
