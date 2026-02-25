@@ -1,0 +1,7 @@
+{
+  "source_tier": "US",
+  "target_tier": "Archetypal",
+  "cross_tier": true,
+  "gate_open": false,
+  "expected_transferred": false
+}

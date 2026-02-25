@@ -1,0 +1,7 @@
+{
+  "source_tier": "ME",
+  "target_tier": "US",
+  "cross_tier": true,
+  "gate_open": true,
+  "expected_transferred": true
+}
