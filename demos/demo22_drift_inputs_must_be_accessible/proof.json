@@ -1,0 +1,17 @@
+{
+  "inputs": [
+    {
+      "name": "user_message",
+      "value": "Please summarize this.",
+      "accessible": true
+    },
+    {
+      "name": "session_context",
+      "value": "thread-42",
+      "accessible": true
+    }
+  ],
+  "drift_decision_requested": true,
+  "expected_allowed": true,
+  "expected_blocked_inputs": []
+}

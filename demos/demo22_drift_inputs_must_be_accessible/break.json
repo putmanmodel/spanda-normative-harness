@@ -1,0 +1,19 @@
+{
+  "inputs": [
+    {
+      "name": "user_message",
+      "value": "Please summarize this.",
+      "accessible": true
+    },
+    {
+      "name": "private_embedding_store",
+      "value": "opaque-vector-ref",
+      "accessible": false
+    }
+  ],
+  "drift_decision_requested": true,
+  "expected_allowed": false,
+  "expected_blocked_inputs": [
+    "private_embedding_store"
+  ]
+}
