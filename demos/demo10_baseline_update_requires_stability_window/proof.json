@@ -1,0 +1,17 @@
+{
+  "stable_steps": 5,
+  "stability_required": 3,
+  "baseline_before": {
+    "learning_rate": 0.1,
+    "adaptation_gain": 0.4
+  },
+  "proposed_update": {
+    "learning_rate": 0.08,
+    "adaptation_gain": 0.5
+  },
+  "expected_baseline_after": {
+    "learning_rate": 0.08,
+    "adaptation_gain": 0.5
+  },
+  "expected_applied": true
+}
