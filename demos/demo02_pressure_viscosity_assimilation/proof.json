@@ -1,1 +1,7 @@
-{ "todo": "Define proof fixture" }
+{
+  "pressure": 0.92,
+  "exposures": 4,
+  "pressure_threshold": 0.75,
+  "viscosity_exposure_min": 3,
+  "expected_consolidate": true
+}

@@ -1,1 +1,6 @@
-{ "todo": "Define proof fixture" }
+{
+  "instability": true,
+  "baseline_before": { "global_tone": 0.10, "scene": "A" },
+  "proposed_updates": { "global_tone": 0.40, "scene": "B" },
+  "expected_baseline_changed": false
+}

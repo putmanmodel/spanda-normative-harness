@@ -1,1 +1,5 @@
-{ "todo": "Define proof fixture" }
+{
+  "invariant_supported": true,
+  "narrative_only": false,
+  "evidence": ["boundary_effect:stable_reflection", "constraint_surface:repeatable_pattern"]
+}

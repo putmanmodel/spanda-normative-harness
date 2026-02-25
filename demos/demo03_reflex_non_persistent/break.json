@@ -1,1 +1,11 @@
-{ "todo": "Define break fixture" }
+{
+  "reflex_triggered": true,
+  "attempted": {
+    "memory_writes": ["WRITE_CANONICAL_MEMORY"],
+    "baseline_updates": {"global": "UPDATE"},
+    "prior_updates": {},
+    "irreversible_actions": ["DELETE_FILES"]
+  },
+  "state": { "memory": ["old"], "baseline": {"tone": 0.1}, "priors": {"bias": 0.0} },
+  "expected_pass": false
+}

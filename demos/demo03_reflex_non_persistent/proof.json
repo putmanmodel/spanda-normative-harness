@@ -1,1 +1,11 @@
-{ "todo": "Define proof fixture" }
+{
+  "reflex_triggered": true,
+  "attempted": {
+    "memory_writes": [],
+    "baseline_updates": {},
+    "prior_updates": {},
+    "irreversible_actions": []
+  },
+  "state": { "memory": ["old"], "baseline": {"tone": 0.1}, "priors": {"bias": 0.0} },
+  "expected_pass": true
+}

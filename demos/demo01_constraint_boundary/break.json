@@ -1,1 +1,5 @@
-{ "todo": "Define break fixture" }
+{
+  "invariant_supported": false,
+  "narrative_only": true,
+  "evidence": ["freeform_story:agent_intended_X", "no_boundary_invariants_observed"]
+}
