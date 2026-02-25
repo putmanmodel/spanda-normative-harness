@@ -1,0 +1,21 @@
+{
+  "supported_scopes": [
+    "global",
+    "agent",
+    "task",
+    "scene"
+  ],
+  "requested_scope": "org",
+  "update_requested": true,
+  "baseline_before": {
+    "global": {
+      "stability": 0.9
+    }
+  },
+  "baseline_update": {
+    "org": {
+      "stability": 0.95
+    }
+  },
+  "expected_allowed": false
+}

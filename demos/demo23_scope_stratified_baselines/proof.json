@@ -1,0 +1,21 @@
+{
+  "supported_scopes": [
+    "global",
+    "agent",
+    "task",
+    "scene"
+  ],
+  "requested_scope": "scene",
+  "update_requested": true,
+  "baseline_before": {
+    "scene": {
+      "coherence": 0.7
+    }
+  },
+  "baseline_update": {
+    "scene": {
+      "coherence": 0.8
+    }
+  },
+  "expected_allowed": true
+}
