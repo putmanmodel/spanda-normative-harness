@@ -1,0 +1,7 @@
+{
+  "reflex_active_before": true,
+  "age_steps": 5,
+  "ttl_steps": 3,
+  "retriggered": false,
+  "expected_reflex_active_after": false
+}
