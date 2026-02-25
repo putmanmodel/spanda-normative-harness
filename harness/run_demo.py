@@ -43,6 +43,9 @@ def validate_event(event: dict, schema: dict):
 
 
 def main():
+    import sys
+    sys.argv = [a.replace('–','-').replace('—','-') for a in sys.argv]
+
     ap = argparse.ArgumentParser(description="Run a single deterministic Spanda normative demo.")
     ap.add_argument("--demo", required=True, help="Demo folder name, e.g. demo01_constraint_boundary")
     ap.add_argument("--mode", required=True, choices=["proof", "break"], help="Which fixture to run")

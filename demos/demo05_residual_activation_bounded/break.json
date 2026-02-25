@@ -1,0 +1,7 @@
+{
+  "residual_before": 0.875,
+  "residual_delta": 0.25,
+  "cap": 1.0,
+  "expected_residual_after": 1.0,
+  "expected_clamped": true
+}
