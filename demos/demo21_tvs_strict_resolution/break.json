@@ -1,0 +1,19 @@
+{
+  "dictionary_version": "v1.0.0",
+  "dictionary": {
+    "TVS:CALM": "Low arousal, stable affect",
+    "TVS:FOCUS": "Task-directed concentration"
+  },
+  "tags": [
+    "TVS:CALM",
+    "TVS:UNKNOWN"
+  ],
+  "provenance": {
+    "source": "sensor_fusion",
+    "event_id": "evt_2102"
+  },
+  "expected_allowed": false,
+  "expected_unresolved": [
+    "TVS:UNKNOWN"
+  ]
+}
