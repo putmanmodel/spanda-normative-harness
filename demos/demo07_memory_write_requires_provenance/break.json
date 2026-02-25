@@ -1,0 +1,18 @@
+{
+  "write_request_id": "wr_002",
+  "persistent_write": true,
+  "payload": {
+    "memory_key": "agent.preference.channel",
+    "value": "email"
+  },
+  "provenance": {
+    "source": "system_sync",
+    "actor": "service"
+  },
+  "required_keys": [
+    "source",
+    "timestamp",
+    "actor"
+  ],
+  "expected_allowed": false
+}

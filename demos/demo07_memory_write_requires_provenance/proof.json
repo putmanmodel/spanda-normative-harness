@@ -1,0 +1,19 @@
+{
+  "write_request_id": "wr_001",
+  "persistent_write": true,
+  "payload": {
+    "memory_key": "agent.preference.tone",
+    "value": "formal"
+  },
+  "provenance": {
+    "source": "user_input",
+    "timestamp": "2026-02-25T00:00:00Z",
+    "actor": "user"
+  },
+  "required_keys": [
+    "source",
+    "timestamp",
+    "actor"
+  ],
+  "expected_allowed": true
+}
