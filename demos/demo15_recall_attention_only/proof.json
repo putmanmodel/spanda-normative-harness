@@ -1,0 +1,32 @@
+{
+  "recall_triggered": true,
+  "attempted": {
+    "canonical_memory_write": false,
+    "baseline_update": false,
+    "prior_update": false,
+    "irreversible_action": false
+  },
+  "state_before": {
+    "canonical_memory": {
+      "fact_count": 42
+    },
+    "baseline": {
+      "gain": 0.4
+    },
+    "priors": {
+      "risk": 0.5
+    }
+  },
+  "expected_allowed": true,
+  "expected_state_after": {
+    "canonical_memory": {
+      "fact_count": 42
+    },
+    "baseline": {
+      "gain": 0.4
+    },
+    "priors": {
+      "risk": 0.5
+    }
+  }
+}
