@@ -1,0 +1,13 @@
+{
+  "declared_dimensions": [
+    "valence",
+    "arousal",
+    "coherence"
+  ],
+  "new_dimensions": [
+    "valence",
+    "coherence"
+  ],
+  "expected_allowed": true,
+  "expected_undeclared": []
+}

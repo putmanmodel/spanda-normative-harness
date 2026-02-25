@@ -1,0 +1,14 @@
+{
+  "declared_dimensions": [
+    "valence",
+    "arousal"
+  ],
+  "new_dimensions": [
+    "valence",
+    "entropy"
+  ],
+  "expected_allowed": false,
+  "expected_undeclared": [
+    "entropy"
+  ]
+}
