@@ -1,0 +1,8 @@
+{
+  "base_influence": 1.5,
+  "reference_concentration": 0.6,
+  "concentration_threshold": 0.6,
+  "amplification_factor": 2.0,
+  "expected_effective_influence": 3.0,
+  "expected_amplified": true
+}
