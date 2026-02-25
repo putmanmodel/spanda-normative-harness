@@ -1,0 +1,6 @@
+{
+  "hypothesis": "State transition is explained by boundary-constrained dynamics.",
+  "invariant_support": true,
+  "expected_accepted": true,
+  "expected_flagged_projection": false
+}

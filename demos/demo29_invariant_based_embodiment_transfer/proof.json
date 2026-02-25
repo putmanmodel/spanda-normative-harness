@@ -1,0 +1,6 @@
+{
+  "source_embodiment": "arm_v1",
+  "target_embodiment": "wheel_v2",
+  "transfer_method": "INVARIANT_ABSTRACTION",
+  "expected_allowed": true
+}

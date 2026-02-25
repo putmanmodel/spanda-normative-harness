@@ -1,0 +1,11 @@
+{
+  "layers_present": [
+    "Surface"
+  ],
+  "required_layers": [
+    "Surface",
+    "Intermediate",
+    "Priors"
+  ],
+  "expected_compliant": false
+}

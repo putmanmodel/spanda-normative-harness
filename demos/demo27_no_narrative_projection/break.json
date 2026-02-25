@@ -1,0 +1,6 @@
+{
+  "hypothesis": "The agent intended to manipulate outcomes.",
+  "invariant_support": false,
+  "expected_accepted": false,
+  "expected_flagged_projection": true
+}
