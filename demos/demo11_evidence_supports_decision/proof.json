@@ -1,0 +1,8 @@
+{
+  "claimed_decision": "ALLOW_ACTION",
+  "evidence": {
+    "allowed": true,
+    "reason": "contract_verified"
+  },
+  "expected_supported": true
+}

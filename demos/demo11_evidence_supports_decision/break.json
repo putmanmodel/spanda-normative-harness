@@ -1,0 +1,8 @@
+{
+  "claimed_decision": "ALLOW_ACTION",
+  "evidence": {
+    "allowed": false,
+    "reason": "missing_contract"
+  },
+  "expected_supported": false
+}
