@@ -15,7 +15,7 @@ If `valid_contract` is false for an irreversible action, the action is rejected.
   - Expected decision: `REJECT_ACTION_NO_CONTRACT`, `pass: true`
 
 ## Run commands
-[FENCE]
+```
 python3 harness/run_demo.py --demo demo06_irreversible_requires_contract --mode proof
 python3 harness/run_demo.py --demo demo06_irreversible_requires_contract --mode break
-[END_FENCE]
+```
