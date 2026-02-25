@@ -1,0 +1,7 @@
+{
+  "event_id": "gov_evt_2402",
+  "governance_event": true,
+  "rationale_pointers": [],
+  "expected_allowed": false,
+  "expected_missing": true
+}

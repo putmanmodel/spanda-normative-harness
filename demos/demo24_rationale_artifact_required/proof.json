@@ -1,0 +1,10 @@
+{
+  "event_id": "gov_evt_2401",
+  "governance_event": true,
+  "rationale_pointers": [
+    "logs/gov_evt_2401_rationale.json",
+    "artifacts/gov_evt_2401_predicates.json"
+  ],
+  "expected_allowed": true,
+  "expected_missing": false
+}
