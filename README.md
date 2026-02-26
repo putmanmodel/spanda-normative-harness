@@ -23,6 +23,9 @@ done
 
 ## Normatives coverage
 
+Paper 8 (Spanda architectural documentation) — Normative Spec v0.2 — DOI: 10.5281/zenodo.18791708
+https://doi.org/10.5281/zenodo.18791708
+
 N01–N30 are currently covered by 31 demos (N11 has two demos).
 
 ## Determinism contract
